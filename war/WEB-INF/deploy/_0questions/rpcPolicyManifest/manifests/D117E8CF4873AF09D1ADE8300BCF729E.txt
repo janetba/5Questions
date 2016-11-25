@@ -1,0 +1,2 @@
+serviceClass: stem.client.GreetingService
+path: 7E83390332C281176DFECE3D8A14E76C.gwt.rpc
